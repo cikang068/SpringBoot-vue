@@ -1,4 +1,4 @@
-target/classes
+target/classes     
 target/generated-sources
 target/generated-test-sources
 target/maven-archiver
